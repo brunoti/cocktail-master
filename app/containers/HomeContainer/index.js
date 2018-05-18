@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { Container, Spinner, Text } from 'native-base';
 import { connect } from 'react-redux';
 
 import actions from './actions';

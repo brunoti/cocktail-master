@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Container, Spinner, Text } from 'native-base';
 
 class HomeScreen extends Component {
   render() {
